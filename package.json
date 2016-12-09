@@ -1,0 +1,25 @@
+{
+  "name": "requestheader",
+  "version": "1.0.0",
+  "description": "Freecodecamp BaseJump Request Header parser app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlimacsMusings/requestheader-app.git"
+  },
+  "author": "AlimacsMusings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlimacsMusings/requestheader-app/issues"
+  },
+  "homepage": "https://github.com/AlimacsMusings/requestheader-app#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "os-name": "^2.0.1",
+    "request-ip": "^1.2.3"
+  }
+}
